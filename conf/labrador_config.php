@@ -70,11 +70,20 @@ $administrators = array(
 // Keys should be full length names
 // Values should be shortened versions (no spaces)
 $groups = array(
+	'Buzz Baum' => 'Buzz Baum',
+	'Anne Bertolotti' => 'Anne Bertolotti', 
+	'Simon Bullock' => 'Simon Bullock',
+	'Emmanuel Derivery' => 'Emmanuel Derivery',
+	'Ramanujan Hegde' => 'Ramanujan Hegde',
 	'Madeline Lancaster' => 'Madeline Lancaster',
-	'Bioinformatics' => 'Bioinformatics'
+	'Kate McDole' => 'Kate McDole',
+	'Liz Miller' => 'Liz Miller',
+	'Sean Munro' => 'Sean Munro',
+	"John O'Neil" => "John O'Neil",
+	"Katja Roeper" => "Katja Roeper",
+	"Marta Shahbazi" => "Marta Shahbazi",
+	"Other" => "Other"
 );
-
-
 
 
 
@@ -129,7 +138,10 @@ $reports_filename_filters = array(
 	'_fastqc.zip',
 	'trimming_report.txt',
 	'_screen.png',
-	'_screen.txt'
+	'_screen.txt',
+	'_screen.html',
+	'.html',
+	'.svg'
 );
 
 
