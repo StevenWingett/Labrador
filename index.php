@@ -77,8 +77,8 @@ include('includes/header.php');
                 ?>
 
 
-		<P>Please submit feature requests and bug reports at <A HREF="https://github.com/ewels/labrador/issues">https://github.com/ewels/labrador/issues</A>
-		You can use labrador to find and download processed data or request new datasets.
+		<p>If you have any queries, spot any bugs or would like to make a Labrador feature request, then please email <a href="mailto:steven.wingett@mrc-lmb.cam.ac.uk">steven.wingett@mrc-lmb.cam.ac.uk</a></p><br>
+		You can use Labrador to find and download processed data or request new datasets.
 		Projects are annotated with how they were processed. <a class="labrador_help_toggle" href="#labrador_help" title="Help"><i class="icon-question-sign"></i></a></p>
 
 		<div class="labrador_help" style="display:none;">

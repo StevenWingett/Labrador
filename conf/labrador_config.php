@@ -44,8 +44,8 @@ $support_email = 'swingett@mrc-lmb.cam.ac.uk';
 //// Title and subtitle (used on homepage)
 $header_title = 'Labrador';
 $header_icon = 'img/labrador.ico';
-$homepage_title = 'Labrador Dataset Browser';
-$homepage_subtitle = 'A database of datasets processed by the MRC-LMB Bioinformatics Team';
+$homepage_title = 'The Labrador of Molecular Biology Dataset Browser';
+$homepage_subtitle = 'Useful public pre-processed datasets';
 
 $logo = 'img/puppy.png';
 $samtools_path = '';
